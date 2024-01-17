@@ -43,3 +43,9 @@ node .
 You can now use the bot!
 ---
 You can check the commands by using !help in your server.
+
+---
+
+## Preview
+
+()[https://cdn.discordapp.com/attachments/1087810026644721745/1197048441281450086/image.png?ex=65b9d93c&is=65a7643c&hm=4422f923fabde3bf75a0865db54f999cc86496b09e32c21d21af13268eed53bd&]
