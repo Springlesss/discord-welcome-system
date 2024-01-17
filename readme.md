@@ -5,7 +5,7 @@ made by Springles
 
 ## How to install
 
-1. Make sure you have Node.js installed on your machine. You can download it from https://nodejs.org/.
+1. Make sure you have Node.js installed on your machine. You can download it from [nodejs.org](https://nodejs.org/).
 
 2. Create a new Discord bot and obtain the token. You can do this by following the [Discord Developer Portal guide](https://discord.com/developers/docs/intro).
 
