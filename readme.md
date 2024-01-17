@@ -13,12 +13,12 @@ made by Springles
 
 Clone the repository to your local machine.
 ```bash
-git clone https://github.com/your-username/your-repository.git
+git clone https://github.com/Springlesss/discord-welcome-system.git
 ```
 
 Navigate to the project directory.
 ```bash
-cd your-repository
+cd discord-welcome-system
 ```
 Install the required dependencies using npm.
 
@@ -26,17 +26,13 @@ Install the required dependencies using npm.
 npm install discord.js
 npm install simple-json-db
 ```
-Configure the bot settings.
 
 Open the config.json file.
 Replace YOUR_BOT_TOKEN with your Discord bot token.
 
 ```json
 {
-  "token": "YOUR_BOT_TOKEN_HERE",
-  "prefix": "!",
-  "welcomeMessage": "Welcome to the server, {user}!",
-  "welcomeChannel": "welcome"
+  "token": "YOUR_BOT_TOKEN",
 }
 ```
 Run the bot.
