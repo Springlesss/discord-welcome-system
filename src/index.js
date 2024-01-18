@@ -53,10 +53,10 @@ client.on("messageCreate", (message) => {
               "Your channel could not be found. Make sure you provided a valid ChannelID. If you dont know how to get a channel ID, please visit this link: https://support.discord.com/hc/en-us/articles/206346498-Where-can-I-find-my-User-Server-Message-ID-]"
             );
           } else if (message.guild.channels.cache.get(id)) {
+            const channelid = message.channel.id;
             db.set(`welcomechannelid-${message.guild.id}`, channelid);
             db.set(`guildsetupdone-${message.guild.id}`, true);
             message.reply("You've successfully set up the welcome system.");
-            const channelid = message.channel.id;
           }
         } else if (
           !message.member.permissions.has("Administrator")
