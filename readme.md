@@ -44,4 +44,6 @@ You can now use the bot!
 ---
 You can check the commands by using !help in your server.
 
+If you're looking for a way to keep your bot online 24/7, i recommend checking out [Sparked Host](https://sparkedhost.com/). They offer great hosting for only 1$ per month!
+
 
